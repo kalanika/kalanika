@@ -23,11 +23,12 @@ I’m Erandi Kalanika.I am a Software Engineer at WSO2
 <br />
 <br />
 
+## :trophy: My Github Stats:
+
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kalanika&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalanika&theme=tokyonight)
 
 
-
----
 
 
 
