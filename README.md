@@ -11,6 +11,9 @@ I’m Erandi Kalanika.I am a Software Engineer at WSO2
 
 <br />
 
+## 🥇 Certifications:
+
+[WSO2 Certified Identity Server Developer - V5 and WSO2 Certified Identity Server Practitioner - V5](https://certification.wso2.com/web/certificate/55GSNN)
 
 ## 🧰 Languages and Tools:
 
