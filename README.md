@@ -15,6 +15,13 @@ I’m Erandi Kalanika.I am a Software Engineer at WSO2
 
 [WSO2 Certified Identity Server Developer - V5 and WSO2 Certified Identity Server Practitioner - V5](https://certification.wso2.com/web/certificate/55GSNN)
 
+
+
+## ✍️ Blog posts:
+[Easy way to Customize the SAML2 federated authenticator in WSO2IS](https://kalanika2013.medium.com/how-to-customize-federated-wso2is-saml2ssomanager-f812e9f4ea25) <br/>
+[Easy way to write an User Operation Event Listener for WSO2 server](https://kalanika2013.medium.com/easy-way-to-write-a-user-operation-event-listener-for-wso2-server-4a5bb182acdc)
+
+
 ## 🧰 Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
