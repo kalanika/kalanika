@@ -20,6 +20,7 @@ I’m Erandi Kalanika.I am a Software Engineer at WSO2
 ## ✍️ Blog posts:
 [Easy way to Customize the SAML2 federated authenticator in WSO2IS](https://kalanika2013.medium.com/how-to-customize-federated-wso2is-saml2ssomanager-f812e9f4ea25) <br/>
 [Easy way to write an User Operation Event Listener for WSO2 server](https://kalanika2013.medium.com/easy-way-to-write-a-user-operation-event-listener-for-wso2-server-4a5bb182acdc) <br/>
+[Double Submit Cookies Pattern](http://mypersoanlblog999.blogspot.com/2018/10/double-submit-cookies-pattern.html) <br/>
 Read more blog posts [here](http://mypersoanlblog999.blogspot.com/)
 
 
